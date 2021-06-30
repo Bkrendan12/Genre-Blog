@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS genre_db;
+CREATE DATABASE genre_db;
